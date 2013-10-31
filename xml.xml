@@ -1,0 +1,14 @@
+<node>
+	<childnode>
+			<grandchildnode>
+				Innertext of grandchildnode
+			</grandchildnode>
+		Innertextofchildnode
+	</childnode>
+	<childnode>
+			<grandchildnode>
+				Innertext of grandchildnode2
+			</grandchildnode>
+		Innertext of childnode 2
+	</childnode>
+</node>
